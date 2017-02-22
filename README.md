@@ -14,14 +14,8 @@ We've looked briefly at the [Census Data Exploration]
 
 We have looked at some other worked examples from Kaggle. A summary will be added here real soon now.
 
-We've returned to Kaggle in order to build skills with machine learning tools. Here are some How to Get Started Instructions:
-Revised to correct local file structure, notebook name and details.
-
-We are planning to take a look at the tutorials on Kaggle.
-https://www.kaggle.com/
-
-
-The recommended starting point is with the Kaggle Titanic challenge.
+We've returned to Kaggle in order to build skills with machine learning tools. The recommended starting point in Kaggle is the Kaggle Titanic challenge. Here are some How to Get Started Instructions for using the Titanic Getting Started Python learning code kaggle has provided :
+Starting from Kaggle's Titanic Tutorial page, 
 https://www.kaggle.com/c/titanic#getting-started
 Here is an iPython starter Python tutorial
 https://www.kaggle.com/omarelgabry/titanic/a-journey-through-titanic
