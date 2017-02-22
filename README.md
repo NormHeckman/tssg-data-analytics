@@ -14,4 +14,51 @@ We've looked briefly at the [Census Data Exploration]
 
 We have looked at some other worked examples from Kaggle. A summary will be added here real soon now.
 
-We currently seek to work together on a longer term project to analize social media data. Lots of examples of appoaches, methods, and code snipits is avalable on Kaggl.com and the  web. Twitter data is a good candidate. We have used cree.py, and Open Source Intelligence Automation tool (OSINT) which only gathers Tweets which have geocodes attached.  We are looking some other open source tools to collect tweets. There are also 12 databases of Twitter data currently available on Kaggle. Some code has been adapted from a Kaggle contributor and can be run locally on a pc under Jupyter/iPython which can read Twitter files collected by cree.py.  The intention is to build a collection of tools that can collect tweets, analyze, cross-corelate with other data sources.  We will leave behind documentation and code demonstrating our skills.  Thereby providing benefit to the entire project team who understands and has contributed.  
+We've returned to Kaggle in order to build skills with machine learning tools. Here are some How to Get Started Instructions:
+Revised to correct local file structure, notebook name and details.
+
+We are planning to take a look at the tutorials on Kaggle.
+https://www.kaggle.com/
+
+
+The recommended starting point is with the Kaggle Titanic challenge.
+https://www.kaggle.com/c/titanic#getting-started
+Here is an iPython starter Python tutorial
+https://www.kaggle.com/omarelgabry/titanic/a-journey-through-titanic
+
+You can get yourself a login on Kaggle.com and fill out a profile.
+Then you can FORK the code and run it inside of Kaggle in your browser.
+Please try to do this, as it avoids all the following detail trashing about.
+
+If you still  insist on downloading the iPython notebook, you can do that. 
+
+Note that Kaggle uses Python 3.x so ... at the anaconda prompt you need to 'activate py35' to switch form the default Python 2.7 to Python 3.x.
+Install required package seaborn  at the anaconda command prompt.
+ 'conda install -c anaconda seaborn=0.7.1'
+
+Download the notebook file from code link then download code
+https://www.kaggle.com/omarelgabry/titanic/a-journey-through-titanic/code
+by clicking the download button
+You will get the file: 
+__notebook__.ipynb
+put his file into a local directory on your workstation or pc. For exampie:
+c:workspace/Titanic-iPython/iPython-notebook
+Then download the data files from the the data link of
+https://www.kaggle.com/c/titanic
+go to
+https://www.kaggle.com/c/titanic/data
+and download the three files:
+train.csv
+test.csv
+gender_submission.csv
+Put these three files in a local directory on your workstation or pc. For example:
+c:workspace/Titanic-iPython/input
+
+Then (assuming you have installed Anaconda on your local machine) open an anaconda command prompt.
+Using 'cd' change directory to the directory containing the iPython notebook
+cd c:\workspace\Titanic-iPython\ipython_notebook
+Then type
+jupyter notebook __notebook__.ipynb
+Then a browser window in your default browser will open showing the notebook.
+
+We have sought to work together on a longer term project to analize social media data. Lots of examples of appoaches, methods, and code snipits are avalable on Kaggle.com and the  web. Twitter data is a good candidate. We have used cree.py, and Open Source Intelligence Automation tool (OSINT) which only gathers Tweets which have geocodes attached. MOZDEH is another tool we have used.  We are looking some other open source tools to collect tweets. There are also 12 databases of Twitter data currently available on Kaggle. Some code has been adapted from a Kaggle contributor and can be run locally on a pc under Jupyter/iPython which can read Twitter files collected by cree.py.  The intention is to build a collection of tools that can collect tweets, analyze, cross-corelate with other data sources.  We will leave behind documentation and code demonstrating our skills.  Thereby providing benefit to the entire project team who understands and has contributed.  A tutorial startup repository Twitter_Analysis is also available on this account.
