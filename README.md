@@ -46,7 +46,7 @@ train.csv
 test.csv
 gender_submission.csv
 Put these three files in a local directory on your workstation or pc. For example:
-c:workspace/Titanic-iPython/input
+c:/workspace/Titanic-iPython/input
 
 Then (assuming you have installed Anaconda on your local machine) open an anaconda command prompt.
 Using 'cd' change directory to the directory containing the iPython notebook
