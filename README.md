@@ -34,7 +34,7 @@ Download the notebook file from code link then download code
 https://www.kaggle.com/omarelgabry/titanic/a-journey-through-titanic/code
 by clicking the download button
 You will get the file: 
-__notebook__.ipynb
+\_\_notebook\_\_.ipynb
 put his file into a local directory on your workstation or pc. For exampie:
 c:workspace/Titanic-iPython/iPython-notebook
 Then download the data files from the the data link of
@@ -50,9 +50,9 @@ c:/workspace/Titanic-iPython/input
 
 Then (assuming you have installed Anaconda on your local machine) open an anaconda command prompt.
 Using 'cd' change directory to the directory containing the iPython notebook
-cd c:\workspace\Titanic-iPython\ipython_notebook
+cd c:\workspace\Titanic-iPython\ipython\_notebook
 Then type
-jupyter notebook __notebook__.ipynb
+jupyter notebook \_\_notebook\_\_.ipynb
 Then a browser window in your default browser will open showing the notebook.
 
 We have sought to work together on a longer term project to analize social media data. Lots of examples of appoaches, methods, and code snipits are avalable on Kaggle.com and the  web. Twitter data is a good candidate. We have used cree.py, and Open Source Intelligence Automation tool (OSINT) which only gathers Tweets which have geocodes attached. MOZDEH is another tool we have used.  We are looking some other open source tools to collect tweets. There are also 12 databases of Twitter data currently available on Kaggle. Some code has been adapted from a Kaggle contributor and can be run locally on a pc under Jupyter/iPython which can read Twitter files collected by cree.py.  The intention is to build a collection of tools that can collect tweets, analyze, cross-corelate with other data sources.  We will leave behind documentation and code demonstrating our skills.  Thereby providing benefit to the entire project team who understands and has contributed.  A tutorial startup repository Twitter_Analysis is also available on this account.
