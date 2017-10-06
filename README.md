@@ -2,7 +2,7 @@
 
 This tssg-data-analytics repository contains information on our team's recent data science project activites related to the [Kaggle Data Science Competions](https://www.kaggle.com).
 
-####Kaggle.com Website Educational Resource
+#### Kaggle.com Website Educational Resource
 The [Kaggle website](www/kaggle.com) contains data science challenges, tutorials, code and data. It is **the** recommended site for learning data science. Code for those competions can be run using Kaggle Scripts which support the execution of R, Python and other language code directly on the Kaggle website. We have learned from studying the tutorials and other participants scripts for analyzing data and predicting results.
 
 #####Titanic: Machine Learning
