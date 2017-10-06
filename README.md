@@ -5,12 +5,12 @@ This tssg-data-analytics repository contains information on our team's recent da
 #### Kaggle.com Website Educational Resource
 The [Kaggle website](www/kaggle.com) contains data science challenges, tutorials, code and data. It is **the** recommended site for learning data science. Code for those competions can be run using Kaggle Scripts which support the execution of R, Python and other language code directly on the Kaggle website. We have learned from studying the tutorials and other participants scripts for analyzing data and predicting results.
 
-#####Titanic: Machine Learning
+##### Titanic: Machine Learning
 Kaggle recommends new users start by working through the [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic) learning activity Many of us have worked through that tutorial competition. We have reviewed their benchmark example utilizing Random Forests in R. A Random Forest classifier is a meta estimator that fits a number of decision tree classifiers on various sub-samples of the dataset and uses averaging to improve the predictive accuracy and control over-fitting. Random Forests can be sucessfully used by those with little statistical expertice. Some of us are learning the R-language and have installed R and RStudio on our laptops.
 
 Kaggle now provides a [How to Get Started](https://www.kaggle.com/c/titanic#getting-started) page of instructions. Try the [iPython Starter Tutorial](https://www.kaggle.com/omarelgabry/titanic/a-journey-through-titanic) Request a login on Kaggle.com. Then you can **FORK** code experiment with it and and run it yourself on your account on Kaggle in your browser.
 
-#####Titanic: Machine Learning running on your PC or Workstation
+##### Titanic: Machine Learning running on your PC or Workstation
 You can download that iPython notebook. Here are some 'how to' instructions:
 The recommended Python instalation is the [Anaconda Python](https://www.continuum.io/downloads) package.
 Note that Kaggle uses Python 3.x so you may need to select that version. If you have the default 2.7 as well as have installed 3.x, then at the anaconda prompt you need to enter **'activate py35'** to switch form the default Python 2.7 to Python 3.x.
