@@ -30,15 +30,15 @@ Using **'cd'** change directory to the directory containing the iPython notebook
 Then type **jupyter notebook \_\_notebook\_\_.ipynb**
 Then a **Jupyter** tab in your default browser will be opened showing the notebook you downloaded. 
 
-#####Handwritten Digit Recognizer
+##### Handwritten Digit Recognizer
 As a group, we have also studied and worked through the [Kaggle Digit Recognizer](https://www.kaggle.com/c/digit-recognizer) training competion.
 
-#####Census Data Exploration & San Francisco Crime Classification
+##### Census Data Exploration & San Francisco Crime Classification
 We looked briefly at the [Census Data Exploration](https://www.kaggle.com/c/2013-american-community-survey) open-ended knowledge challenge which includes mapping tools. We briefly investigated the [San Francisco Crime Classification](https://www.kaggle.com/c/sf-crime) knowledge challenge which asks specific questions, and provides an opportunity for exploring mapping.
 
-#####Social Media (Twitter) Data Analysis
+##### Social Media (Twitter) Data Analysis
 Lots of examples of appoaches, methods, and code snipits are avalable on Kaggle.com and the  web. Twitter data is a good candidate. We have used **cree.py**, and Open Source Intelligence Automation tool (OSINT) which gathers Tweets by location and **mozdeh** to gather any Tweet.  Kaggle has more than 12 databases of Twitter data available. A repository [**Twitter_Analysis**](https://github.com/NormHeckman/Twitter_Analysis) has been setup to analize social media (Twitter) data. Code has been adapted from a Kaggle contributor and can be run locally on a pc under Jupyter/iPython which can read Twitter files collected by cree.py.  This code could be extended to perform more analysis and or to cross-correlate with other data sources.
 
-#####Machine Learning - Member Contributions
+##### Machine Learning - Member Contributions
 Several members are working on personal projects and coursework and have their own Social Media presence.
 [Andy Webber](https://github.com/andygwebber) has demonstrated Machine Learning techniques on his GitHub account.
