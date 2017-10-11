@@ -12,10 +12,9 @@ Kaggle now provides a [How to Get Started](https://www.kaggle.com/c/titanic#gett
 
 ##### Titanic: Machine Learning running on your PC or Workstation
 You can download that iPython notebook. Here are some 'how to' instructions:
-The recommended Python instalation is the [Anaconda Python](https://www.continuum.io/downloads) package.
-Note that Kaggle uses Python 3.x so you may need to select that version. If you have the default 2.7 as well as have installed 3.x, then at the anaconda prompt you need to enter **'activate py35'** to switch form the default Python 2.7 to Python 3.x.
-
-Install required package seaborn  at the anaconda command prompt.
+The recommended Python instalation we use is the [Anaconda Python](https://www.continuum.io/downloads) package.
+Note that Kaggle uses Python 3.x so you may need to select, install and run that version. 
+Install required package seaborn (required by the tutorial) at the anaconda command prompt.
  **'conda install -c anaconda seaborn=0.7.1'**
 
 Download the [iPython Starter Tutorial](https://www.kaggle.com/omarelgabry/titanic/a-journey-through-titanic) notebook file by clicking the download button
@@ -37,7 +36,7 @@ As a group, we have also studied and worked through the [Kaggle Digit Recognizer
 We looked briefly at the [Census Data Exploration](https://www.kaggle.com/c/2013-american-community-survey) open-ended knowledge challenge which includes mapping tools. We briefly investigated the [San Francisco Crime Classification](https://www.kaggle.com/c/sf-crime) knowledge challenge which asks specific questions, and provides an opportunity for exploring mapping.
 
 ##### Social Media (Twitter) Data Analysis
-Lots of examples of appoaches, methods, and code snipits are avalable on Kaggle.com and the  web. Twitter data is a good candidate. We have used **cree.py**, and Open Source Intelligence Automation tool (OSINT) which gathers Tweets by location and **mozdeh** to gather any Tweet.  Kaggle has more than 12 databases of Twitter data available. A repository [**Twitter_Analysis**](https://github.com/NormHeckman/Twitter_Analysis) has been setup to analize social media (Twitter) data. Code has been adapted from a Kaggle contributor and can be run locally on a pc under Jupyter/iPython which can read Twitter files collected by cree.py.  This code could be extended to perform more analysis and or to cross-correlate with other data sources.
+Lots of examples of appoaches, methods, and code snipits are avalable on Kaggle.com and the web. Twitter data is a good candidate. We have used **cree.py**, and Open Source Intelligence Automation tool (OSINT) which gathers Tweets by location and **mozdeh** to gather any Tweet.  Kaggle has more than 12 databases of Twitter data available. A repository [**Twitter_Analysis**](https://github.com/NormHeckman/Twitter_Analysis) has been setup to analize social media (Twitter) data. Code has been adapted from a Kaggle contributor and can be run locally on a pc under Jupyter/iPython which can read Twitter files collected by cree.py.  This code could be extended to perform more analysis and or to cross-correlate with other data sources.
 
 ### Machine Learning - Member Contributions
 Several members are working on personal projects and coursework and have their own Social Media presence.
