@@ -41,3 +41,4 @@ Lots of examples of appoaches, methods, and code snipits are avalable on Kaggle.
 ### Machine Learning - Member Contributions
 Several members are working on personal projects and coursework and have their own Social Media presence.
 ##### [Andy Webber](https://github.com/andygwebber) has demonstrated Machine Learning techniques on his GitHub account.
+##### [Hideki Ikeda](https://github.com/hideki1234) has demonstrated a JobPostFeeder, a Hadoop emulator and a Kaggle project
